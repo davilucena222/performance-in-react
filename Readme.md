@@ -8,12 +8,12 @@
 
 # 🔧 Tecnologies
 
-- [React]()
-- [TypeScript]()
-- [Next]()
-- [Lodash]()
-- [React Virtualized]()
-- [JSON Server]()
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next](https://nextjs.org/)
+- [Lodash](https://lodash.com/)
+- [React Virtualized](https://github.com/bvaughn/react-virtualized)
+- [JSON Server](https://www.npmjs.com/package/json-server)
 
 # 🔧 Components and Technologies to improve the application performance
 
